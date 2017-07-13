@@ -1,0 +1,33 @@
+p {
+  color: #7a7a7a;
+}
+h1 {
+  font-family: Arial;
+  color: #7a7a7a
+  font-size: 26pt
+}
+h2 {
+  font-size: 24pt;
+}
+h3 {
+  font-size: 22pt;
+  color: #7a7a7b
+}
+h4 {
+  font-size: 20pt;
+}
+h5 {
+  font-size: 18pt;
+}
+h6 {
+  font-size: 16pt;
+}
+a {
+  color: blue;
+  font-size: 34px;
+}
+
+a:hover {
+    font-size: 80px;
+    color: green;
+}
